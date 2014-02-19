@@ -10,7 +10,7 @@ rdiscount:
 # Basics
 #
 # 0. Page title and theme
-title:            Stair-Rover
+title:            Kick Star
 theme:            basic
 #
 # 1. Your website ( could be same as this page - see below )
@@ -23,7 +23,7 @@ url:              http://lee1maman.github.io
 project:
   #
   # Name of the project
-  name:           Stair-Rover
+  name:           Kick Star
   #
   # URL of the project. Use short urls to ensure you track the visits (Optional)
   url:            http://kck.st/12bbLkw
