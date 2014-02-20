@@ -10,7 +10,7 @@ rdiscount:
 # Basics
 #
 # 0. Page title and theme
-title:            Kick Star
+title:            Kick Starter
 theme:            basic
 #
 # 1. Your website ( could be same as this page - see below )
@@ -22,7 +22,7 @@ url:              http://lee1maman.github.io/
 project:
   #
   # Name of the project
-  name:           Kick Star
+  name:           Kick Starter
   #
   # URL of the project. Use short urls to ensure you track the visits (Optional)
   url:            http://bit.ly/VeinKickstarterDream 
@@ -34,7 +34,7 @@ project:
   description:    VE!N: From A Dream
 #
 # 4. Your Twitter handle
-twitter_handle:   Kick Star
+twitter_handle:   Kick Starter
 #
 # 5. Your Google analytics ID (Optional)
 google_analytics: 
